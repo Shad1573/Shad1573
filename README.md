@@ -17,8 +17,8 @@
 ### ⚡ About me
 - 🧑‍🎓 **CSE undergraduate** at BRAC University  
 - 💻 Comfortable with **Python, TypeScript/Next.js, MySQL**  
-- 🧠 Also explored **C/C++ (OpenGL), x86 Assembly, Pthreads**, and OS concepts  
-- 🎯 I like building from scratch and visualizing systems/graphics  
+- 🧠 Explored **C/C++ (OpenGL), x86 Assembly, Pthreads**, and OS concepts  
+- 🎯 Love building systems, visualizations, and experimenting with AI/NLP  
 - 📍 Dhaka, Bangladesh
 
 ---
@@ -28,6 +28,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white)
@@ -36,29 +37,27 @@
 ---
 
 ### 🚀 Featured projects
-- **ShelluMama (UNIX shell in C)** — piping, redirection, `;` and `&&`, history, signals  
-- **Bullet Frenzy (3D OpenGL shooting game)** — camera modes, enemies, scoring/lives  
-- **3D Car Racing Arena** — enemy AI, missiles, weather (rain/fog/day/night), cheats  
-- **CPU Scheduling Visualizer (OpenGL, C++)** — FCFS & SJF timelines  
-- **Voting System (x86 Assembly / emu8086)** — auth, eligibility, vote tally  
-- **Shikkha.com (Web)** — Next.js + MySQL (Ed-Tech concept)
-
-> 🔗 I’ll pin these on my profile (see below).  
-> *(Replace project names with your repo links when ready.)*
+- [**Bracbalance**](https://github.com/WaisKafia/Bracbalance) — A banking & finance management app to track every penny  
+- [**Natural-Language-Processing**](https://github.com/Shad1573/Natural-Language-Processing) — Exploring NLP tasks & models in Jupyter Notebook  
+- [**Computer-Graphics**](https://github.com/Shad1573/Computer-Graphics) — OpenGL projects & visualizations in Python  
+- [**ShelluMama**](https://github.com/Shad1573/ShelluMama) — UNIX shell clone in C with piping, redirection, history & signals  
+- [**Shikkha.com**](https://github.com/Shad1573/Shikkha.com) — Ed-Tech platform built with JavaScript  
+- [**Cafeteria Management System**](https://github.com/Shad1573/Cafeteria_Management_System) — A system to manage cafeteria operations
 
 ---
 
 ### 📫 Contact
 - Email: **shadmansalif@gmail.com**  
 - Academic: **shadman.salif.swanan@g.bracu.ac.bd**  
-- GitHub: **@Shad1573**
+- GitHub: **[@Shad1573](https://github.com/Shad1573)**  
 
 ---
 
 ### 📊 GitHub stats
-![Shadman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shad1573&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shad1573&layout=compact)
+![Shadman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shad1573&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shad1573&layout=compact&theme=radical)
 
 <!--
 Tip: If any card doesn't load, just refresh; these are free public services.
 -->
+
