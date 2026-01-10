@@ -44,7 +44,7 @@
 
 ### 🎓 Academic
 - **[Compiler-Design-Lab](https://github.com/Shad1573/Compiler-Design-Lab)**  
-  *Lexical & syntax analysis, symbol table construction, semantic analysis, and intermediate code generation using Flex & Bison (BRAC University Lab 1–4)*
+  *Lexical & syntax analysis, symbol table construction, semantic analysis, and intermediate code generation using Flex & Bison*
 
 - **[Computer-Graphics](https://github.com/Shad1573/Computer-Graphics)**  
   OpenGL projects & visualizations in Python
@@ -75,10 +75,6 @@
 - 🐙 GitHub: **[@Shad1573](https://github.com/Shad1573)**  
 
 ---
-
-## 📊 GitHub stats
-![Shadman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shad1573&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shad1573&layout=compact&theme=radical)
 
 <!--
 Tip: If any card doesn't load, just refresh; these are free public services.
