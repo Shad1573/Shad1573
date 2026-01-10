@@ -44,7 +44,7 @@
 
 ### 🎓 Academic
 - **[Compiler-Design-Lab](https://github.com/Shad1573/Compiler-Design-Lab)**  
-  *Lexical & syntax analysis, symbol table construction, semantic analysis, and intermediate code generation using Flex & Bison*
+  Lexical & syntax analysis, symbol table construction, semantic analysis, and intermediate code generation using Flex & Bison
 
 - **[Computer-Graphics](https://github.com/Shad1573/Computer-Graphics)**  
   OpenGL projects & visualizations in Python
