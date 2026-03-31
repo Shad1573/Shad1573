@@ -40,34 +40,38 @@
 
 ---
 
-## 🚀 Featured projects
+## 🚀 Featured Projects
 
 ### 🎓 Academic
-- **[Compiler-Design-Lab](https://github.com/Shad1573/Compiler-Design-Lab)**  
-  Lexical & syntax analysis, symbol table construction, semantic analysis, and intermediate code generation using Flex & Bison
 
-- **[Computer-Graphics](https://github.com/Shad1573/Computer-Graphics)**  
-  OpenGL projects & visualizations in Python
+* **[ShelluMama](https://github.com/Shad1573/ShelluMama)**
+  UNIX shell clone in C with piping, redirection, history, and signal handling
 
-- **[ShelluMama](https://github.com/Shad1573/ShelluMama)**  
-  UNIX shell clone in C with piping, redirection, history & signal handling
+* **[3D-Car-Racing-Using-OpenGL](https://github.com/Shad1573/3D-Car-Racing-Using-OpenGL)**
+  3D car racing game with shooting, enemy AI, weather effects, and multiple camera modes using Python OpenGL
+
+* **[Voting-System-Interface-using-emu8086](https://github.com/Shad1573/Voting-System-Interface-using-emu8086)**
+  Assembly-based voting system with authentication and vote recording using emu8086
+
+* **[Automated-Sanitizer-and-Mask-Dispensing-Robot](https://github.com/Shad1573/Automated-Sanitizer-and-Mask-Dispensing-Robot)**
+  Embedded systems project for automated sanitizer dispensing and mask detection
 
 ---
 
 ### 💡 Personal / Group
-- **[Bracbalance](https://github.com/WaisKafia/Bracbalance)**  
-  Banking & finance management app to track every penny
 
-- **[Natural-Language-Processing](https://github.com/Shad1573/Natural-Language-Processing)**  
-  NLP experiments, preprocessing, and models in Jupyter Notebook
+* **[Token-Level-Part-of-Speech-Tagging-Using-Recurrent-Neural-Networks](https://github.com/Shad1573/Token-Level-Part-of-Speech-Tagging-Using-Recurrent-Neural-Networks)**
+  POS tagging using RNN, LSTM, GRU, and BiLSTM models
 
-- **[Shikkha.com](https://github.com/Shad1573/Shikkha.com)**  
-  Ed-Tech platform built with JavaScript
+* **[Project-on-Disease-Prediction](https://github.com/Shad1573/Project-on-Disease-Prediction)**
+  Machine learning classification model for diabetes prediction
 
-- **[Cafeteria Management System](https://github.com/Shad1573/Cafeteria_Management_System)**  
-  System for managing cafeteria operations
+* **[Shikkha.com](https://github.com/Shad1573/Shikkha.com)**
+  Educational platform developed with JavaScript
 
----
+* **[Cafeteria Management System](https://github.com/Shad1573/Cafeteria_Management_System)**
+  Software system for cafeteria operation and management
+
 
 ## 📫 Contact
 - 📧 Email: **shadmansalif@gmail.com**  
