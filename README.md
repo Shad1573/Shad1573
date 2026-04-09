@@ -55,6 +55,9 @@
 
 * **[Automated-Sanitizer-and-Mask-Dispensing-Robot](https://github.com/Shad1573/Automated-Sanitizer-and-Mask-Dispensing-Robot)**
   Embedded systems project for automated sanitizer dispensing and mask detection
+  
+* **[Cafeteria Management System](https://github.com/Shad1573/Cafeteria_Management_System)**
+  Software system for cafeteria operation and management
 
 ---
 
@@ -69,9 +72,8 @@
 * **[Shikkha.com](https://github.com/Shad1573/Shikkha.com)**
   Educational platform developed with JavaScript
 
-* **[Cafeteria Management System](https://github.com/Shad1573/Cafeteria_Management_System)**
-  Software system for cafeteria operation and management
-
+* **[Leaf Disease Research](https://github.com/Shad1573/leaf-disease-research)**
+  A robust deep learning framework for tomato leaf disease classification using a custom TinyResNet architecture. The system incorporates distortion-aware augmentation (blur, noise, low-light) and demonstrates improved performance and generalization compared to ResNet18 baseline.
 
 ## 📫 Contact
 - 📧 Email: **shadmansalif@gmail.com**  
