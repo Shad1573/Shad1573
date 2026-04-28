@@ -44,8 +44,8 @@
 
 ### 🎓 Academic
 
-* **[ShelluMama](https://github.com/Shad1573/ShelluMama)**
-  UNIX shell clone in C with piping, redirection, history, and signal handling
+* **[Shikkha.com](https://github.com/Shad1573/Shikkha.com)**
+  Educational platform developed with JavaScript
 
 * **[3D-Car-Racing-Using-OpenGL](https://github.com/Shad1573/3D-Car-Racing-Using-OpenGL)**
   3D car racing game with shooting, enemy AI, weather effects, and multiple camera modes using Python OpenGL
@@ -58,6 +58,10 @@
   
 * **[Cafeteria Management System](https://github.com/Shad1573/Cafeteria_Management_System)**
   Software system for cafeteria operation and management
+
+* **[ShelluMama](https://github.com/Shad1573/ShelluMama)**
+  UNIX shell clone in C with piping, redirection, history, and signal handling
+  
 
 ---
 
