@@ -42,28 +42,27 @@
 
 ## 🚀 Featured Projects
 
-### 🎓 Academic
+🎓 Academic
+Shikkha.com
+Educational platform developed with JavaScript
 
-* **[Shikkha.com](https://github.com/Shad1573/Shikkha.com)**
-  Educational platform developed with JavaScript
+Federal-Flight-Agency-Mission-Critical-Aerospace-Network-Design
+Enterprise network simulation using Cisco Packet Tracer featuring VLSM, RIPv2, Floating Static Routes, and strict traffic isolation protocols
 
-* **[3D-Car-Racing-Using-OpenGL](https://github.com/Shad1573/3D-Car-Racing-Using-OpenGL)**
-  3D car racing game with shooting, enemy AI, weather effects, and multiple camera modes using Python OpenGL
+3D-Car-Racing-Using-OpenGL
+3D car racing game with shooting, enemy AI, weather effects, and multiple camera modes using Python OpenGL
 
-* **[Voting-System-Interface-using-emu8086](https://github.com/Shad1573/Voting-System-Interface-using-emu8086)**
-  Assembly-based voting system with authentication and vote recording using emu8086
+Voting-System-Interface-using-emu8086
+Assembly-based voting system with authentication and vote recording using emu8086
 
-* **[Automated-Sanitizer-and-Mask-Dispensing-Robot](https://github.com/Shad1573/Automated-Sanitizer-and-Mask-Dispensing-Robot)**
-  Embedded systems project for automated sanitizer dispensing and mask detection
-  
-* **[Cafeteria Management System](https://github.com/Shad1573/Cafeteria_Management_System)**
-  Software system for cafeteria operation and management
+Automated-Sanitizer-and-Mask-Dispensing-Robot
+Embedded systems project for automated sanitizer dispensing and mask detection
 
-* **[ShelluMama](https://github.com/Shad1573/ShelluMama)**
-  UNIX shell clone in C with piping, redirection, history, and signal handling
-  
+Cafeteria Management System
+Software system for cafeteria operation and management
 
----
+ShelluMama
+UNIX shell clone in C with piping, redirection, history, and signal handling
 
 ### 💡 Personal / Group
 
