@@ -1,9 +1,14 @@
 <!-- Profile README for Shadman Salif Swanan (Shad1573) -->
 
 <h1 align="center">Hi, I'm Shadman 👋</h1>
+
 <p align="center">
-  CSE undergrad @ BRAC University · Python & TypeScript · Next.js · MySQL <br/>
-  Interested in AI/NLP, Systems, Compilers, and OpenGL graphics
+  CSE Undergraduate @ BRAC University · AI/ML & NLP Enthusiast · Python Developer <br/>
+  PyTorch · Computer Vision · TypeScript · Next.js · MySQL
+</p>
+
+<p align="center">
+  Interested in building intelligent systems, deep learning models, and real-world AI applications
 </p>
 
 <p align="center">
@@ -18,52 +23,58 @@
 
 ---
 
-## ⚡ About me
+## ⚡ About Me
 - 🧑‍🎓 **CSE undergraduate** at BRAC University  
-- 💻 Comfortable with **Python, TypeScript/Next.js, MySQL**  
-- 🧠 Hands-on experience with **Compiler Design, C/C++ (OpenGL), x86 Assembly, Pthreads, OS concepts**  
-- 🎯 Enjoy building **systems, language tools, visualizations**, and exploring **AI/NLP**  
+- 🎯 Interested in **AI/ML research, robustness in deep learning models, and real-world computer vision applications**  
+- 🤖 Comfortable with **AI/ML and NLP**, including deep learning (PyTorch), computer vision (OpenCV), and sequence models (RNN, LSTM, GRU, BiLSTM)  
+- 🧠 Hands-on experience in **computer networking (Cisco Packet Tracer), graphics programming (OpenGL), and operating systems concepts (process management, synchronization, threading)** 
 - 📍 Dhaka, Bangladesh
 
 ---
 
-## 🛠 Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
 ---
 
 ## 🚀 Featured Projects
 
-🎓 Academic
-Shikkha.com
-Educational platform developed with JavaScript
+### 🎓 Academic
 
-Federal-Flight-Agency-Mission-Critical-Aerospace-Network-Design
-Enterprise network simulation using Cisco Packet Tracer featuring VLSM, RIPv2, Floating Static Routes, and strict traffic isolation protocols
+* **[Shikkha.com](https://github.com/Shad1573/Shikkha.com)**
+  Educational platform developed with JavaScript
 
-3D-Car-Racing-Using-OpenGL
-3D car racing game with shooting, enemy AI, weather effects, and multiple camera modes using Python OpenGL
+* **[Federal Flight Agency Mission-Critical Aerospace Network Design](https://github.com/Shad1573/Federal-Flight-Agency-Mission-Critical-Aerospace-Network-Design)**
+  Designed a secure and scalable aerospace network architecture for mission-critical communication systems
 
-Voting-System-Interface-using-emu8086
-Assembly-based voting system with authentication and vote recording using emu8086
+* **[3D-Car-Racing-Using-OpenGL](https://github.com/Shad1573/3D-Car-Racing-Using-OpenGL)**
+  3D car racing game with shooting, enemy AI, weather effects, and multiple camera modes using Python OpenGL
 
-Automated-Sanitizer-and-Mask-Dispensing-Robot
-Embedded systems project for automated sanitizer dispensing and mask detection
+* **[Voting-System-Interface-using-emu8086](https://github.com/Shad1573/Voting-System-Interface-using-emu8086)**
+  Assembly-based voting system with authentication and vote recording using emu8086
 
-Cafeteria Management System
-Software system for cafeteria operation and management
+* **[Automated-Sanitizer-and-Mask-Dispensing-Robot](https://github.com/Shad1573/Automated-Sanitizer-and-Mask-Dispensing-Robot)**
+  Embedded systems project for automated sanitizer dispensing and mask detection
+  
+* **[Cafeteria Management System](https://github.com/Shad1573/Cafeteria_Management_System)**
+  Software system for cafeteria operation and management
 
-ShelluMama
-UNIX shell clone in C with piping, redirection, history, and signal handling
-
+* **[ShelluMama](https://github.com/Shad1573/ShelluMama)**
+  UNIX shell clone in C with piping, redirection, history, and signal handling
+  
 ### 💡 Personal / Group
 
 * **[Token-Level-Part-of-Speech-Tagging-Using-Recurrent-Neural-Networks](https://github.com/Shad1573/Token-Level-Part-of-Speech-Tagging-Using-Recurrent-Neural-Networks)**
