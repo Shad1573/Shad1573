@@ -77,17 +77,18 @@
   
 ### 💡 Personal / Group
 
+* **[Leaf Disease Research](https://github.com/Shad1573/leaf-disease-research)**
+  A robust deep learning framework for tomato leaf disease classification using a custom TinyResNet architecture. The system incorporates distortion-aware augmentation (blur, noise, low-light) and demonstrates improved performance and generalization compared to ResNet18 baseline.
+  
+* **[FraudShield: Real-Time Fraud Detection](https://github.com/Shad1573/Fraud-Detection-Realtime)**
+  An end-to-end Machine Learning system that identifies fraudulent credit card transactions in real-time. Features a high-performance LightGBM model optimized for extreme class imbalance (0.17% fraud rate) and a live monitoring console that flags suspicious "micro-charge" patterns.
+
 * **[Token-Level-Part-of-Speech-Tagging-Using-Recurrent-Neural-Networks](https://github.com/Shad1573/Token-Level-Part-of-Speech-Tagging-Using-Recurrent-Neural-Networks)**
   POS tagging using RNN, LSTM, GRU, and BiLSTM models
 
 * **[Project-on-Disease-Prediction](https://github.com/Shad1573/Project-on-Disease-Prediction)**
   Machine learning classification model for diabetes prediction
 
-* **[Leaf Disease Research](https://github.com/Shad1573/leaf-disease-research)**
-  A robust deep learning framework for tomato leaf disease classification using a custom TinyResNet architecture. The system incorporates distortion-aware augmentation (blur, noise, low-light) and demonstrates improved performance and generalization compared to ResNet18 baseline.
-  
-* **[FraudShield: Real-Time Fraud Detection](https://github.com/Shad1573/Fraud-Detection-Realtime)**
-  An end-to-end Machine Learning system that identifies fraudulent credit card transactions in real-time. Features a high-performance LightGBM model optimized for extreme class imbalance (0.17% fraud rate) and a live monitoring console that flags suspicious "micro-charge" patterns.
   
 ## 📫 Contact
 - 📧 Email: **shadmansalif@gmail.com**  
