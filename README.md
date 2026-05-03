@@ -93,8 +93,10 @@
 ## 📫 Contact
 - 📧 Email: **shadmansalif@gmail.com**  
 - 🎓 Academic: **shadman.salif.swanan@g.bracu.ac.bd**  
-- 🐙 GitHub: **[@Shad1573](https://github.com/Shad1573)**  
+  
 
+[![GitHub](https://img.shields.io/badge/GitHub-Shad1573-black?logo=github)](https://github.com/Shad1573)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shadman%20Salif%20Swanan-blue?logo=linkedin)](https://www.linkedin.com/in/shadman-salif-swanan-79561b1b6)
 ---
 
 <!--
