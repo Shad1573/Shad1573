@@ -12,7 +12,7 @@
 </p>
 <p align="center">
   <a href="https://drive.google.com/file/d/1ow8BL64XFyAGvt1PgInOYsXxx-52YkB7/view?usp=sharing">
-    <img src="https://img.shields.io/badge/View%20CV-Click%20Here-blue?style=for-the-badge&logo=readthedocs&logoColor=white">
+    <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge&logo=readthedocs&logoColor=white">
   </a>
 </p>
 <p align="center">
