@@ -11,7 +11,7 @@
   Interested in building intelligent systems, deep learning models, and real-world AI applications
 </p>
 <p align="center">
-  <a href="https://drive.google.com/file/d/1l2iToOXKovhcGoNibojAjueEkVZo6KBl/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/101OlMnRL0r_dvjYREGIGPKG_BEbr8pUU/view?usp=drive_link">
     <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge&logo=readthedocs&logoColor=white">
   </a>
 </p>
